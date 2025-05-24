@@ -34,9 +34,6 @@ I'm a passionate Data Engineer and AI/ML Engineer with expertise in building sca
   - AWS Certified Machine Learning Specialist
   - Google Cloud Professional Data Engineer
   - Databricks Certified Associate Developer
-- **Hackathon Wins**: 
-  - 1st Place in AI/ML Hackathon 2023
-  - Best Data Engineering Solution Award
 - **Technical Achievements**:
   - Developed and deployed 5+ production-grade ML models
   - Built scalable data pipelines processing 10GB+ daily
