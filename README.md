@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&random=false&width=600&height=100&lines=Data+Engineer;AI/ML+Engineer;UI/UX+Enthusiast" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prashant-ambati&theme=radical&row=1&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</div>
-
 ## 🎯 Professional Summary
 I'm a passionate Data Engineer and AI/ML Engineer with expertise in building scalable data pipelines and implementing cutting-edge machine learning solutions. I specialize in developing end-to-end data systems and deploying AI models that drive business value. With a strong foundation in both data engineering and machine learning, I bridge the gap between data infrastructure and AI implementation.
 
@@ -33,13 +29,19 @@ I'm a passionate Data Engineer and AI/ML Engineer with expertise in building sca
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </div>
 
-## 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prashant-ambati&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-ambati&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-ambati&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prashant-ambati&theme=radical" alt="Profile Details" width="48%" />
-</div>
+## 🏆 Achievements & Certifications
+- **Professional Certifications**:
+  - AWS Certified Machine Learning Specialist
+  - Google Cloud Professional Data Engineer
+  - Databricks Certified Associate Developer
+- **Hackathon Wins**: 
+  - 1st Place in AI/ML Hackathon 2023
+  - Best Data Engineering Solution Award
+- **Technical Achievements**:
+  - Developed and deployed 5+ production-grade ML models
+  - Built scalable data pipelines processing 10GB+ daily
+  - Reduced model inference time by 60% through optimization
+  - Implemented automated CI/CD pipelines for ML model deployment
 
 ## 🌟 Featured Projects
 
@@ -109,21 +111,6 @@ AI-powered application for audio transcription, text summarization, and multi-la
 - Implemented real-time translation for 10+ languages
 - Reduced API latency by 70% through caching and optimization
 
-## 🏆 Achievements & Certifications
-- **GitHub Achievements**: Pull Shark, YOLO
-- **Professional Certifications**:
-  - AWS Certified Machine Learning Specialist
-  - Google Cloud Professional Data Engineer
-  - Databricks Certified Associate Developer
-- **Hackathon Wins**: 
-  - 1st Place in AI/ML Hackathon 2023
-  - Best Data Engineering Solution Award
-
-## 📈 Activity Metrics
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prashant-ambati&theme=radical&hide_border=true" alt="Contribution Graph" />
-</div>
-
 ## 🤝 Connect With Me
 <div align="center">
   <a href="https://linkedin.com/in/prashant-ambati-a9b030229">
@@ -143,5 +130,4 @@ AI-powered application for audio transcription, text summarization, and multi-la
 ---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Prashant-ambati&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Prashant-ambati?label=Followers&style=social" alt="GitHub Followers" />
 </div> 
