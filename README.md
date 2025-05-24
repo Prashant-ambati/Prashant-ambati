@@ -29,11 +29,7 @@ I'm a passionate Data Engineer and AI/ML Engineer with expertise in building sca
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </div>
 
-## 🏆 Achievements & Certifications
-- **Professional Certifications**:
-  - AWS Certified Machine Learning Specialist
-  - Google Cloud Professional Data Engineer
-  - Databricks Certified Associate Developer
+## 🏆 Achievements 
 - **Technical Achievements**:
   - Developed and deployed 5+ production-grade ML models
   - Built scalable data pipelines processing 10GB+ daily
