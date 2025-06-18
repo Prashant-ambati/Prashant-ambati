@@ -104,6 +104,19 @@ AI-powered application for audio transcription, text summarization, and multi-la
 - Implemented real-time translation for 10+ languages
 - Reduced API latency by 70% through caching and optimization
 
+## 📱 iOS Development Projects
+
+### NeuroPulse
+[NeuroPulse GitHub Repository](https://github.com/Prashant-ambati/Neuropulse)
+
+A fully on-device, AI-powered focus and energy tracker for iOS 18+ (iOS 26 guidelines). NeuroPulse leverages the latest Apple technologies:
+- AppIntents, Widgets, Live Activities, and on-device CoreML
+- Privacy-first: all data is local, no network/cloud
+- Adaptive SwiftUI 6.0 design, accessibility, and HealthKit integration
+- Modern architecture and code organization
+
+*Explore the code and architecture in the [NeuroPulse repository](https://github.com/Prashant-ambati/Neuropulse).* 
+
 ## 🤝 Connect With Me
 <div align="center">
   <a href="https://linkedin.com/in/prashant-ambati-a9b030229">
