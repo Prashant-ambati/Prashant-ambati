@@ -44,33 +44,6 @@ me.say_hi()
 <tr>
 <td width="50%">
 
-### 🎯 [Sports Betting Platform](https://github.com/Prashant-ambati/Sports-Betting-Platform)
-**Full-Stack Web Application**
-- Real-time betting system
-- User authentication & authorization
-- Database design & optimization
-- Responsive UI/UX
-
-**Tech:** `TypeScript` `Node.js` `React` `PostgreSQL`
-
-</td>
-<td width="50%">
-
-### 📱 [Neuropulse](https://github.com/Prashant-ambati/Neuropulse)
-**iOS Mobile Application**
-- Native Swift development
-- Clean architecture & MVVM
-- Core Data integration
-- Modern iOS UI/UX
-
-**Tech:** `Swift` `SwiftUI` `Core Data` `iOS SDK`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
 ### � [TransacriptoCast](https://github.com/Prashant-ambati/transcriptocast)
 **AI-Powered API Service**
 - Audio transcription pipeline
