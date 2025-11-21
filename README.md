@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Prashant Ambati
 
-### � Softwarne Development Engineer | Full-Stack Developer | AI/ML Specialist
+### � Software Development Engineer | Full-Stack Developer | AI/ML Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/prashant-ambati)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://prashantambati.space)
