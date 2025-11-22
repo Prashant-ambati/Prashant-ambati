@@ -4,7 +4,7 @@
 
 ### � Software Development Engineer | Full-Stack Developer | AI/ML Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/prashant-ambati)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/prashant-ambati-a9b030229)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://prashantambati.space)
 
 </div>
